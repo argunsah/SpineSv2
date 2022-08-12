@@ -7,4 +7,6 @@ Argunşah, A.Ö., Erdil, E., Ghani, M.U. et al. An interactive time series image
 
 Use this for now: https://github.com/argunsah/SpineS
 
-v2 (Updates upon revision) will be uploaded soon (from 21.07.2022) including the link for datasets.
+v2 (Updates upon revision) will be uploaded soon (from 21.07.2022).
+
+Datasets can be found here: https://zenodo.org/record/6985022
